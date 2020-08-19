@@ -1,0 +1,18 @@
+{
+  "mSystemBusy": "Sorry, the system is busy. Please try again. If the issue persists, please <a href=\"/feedback\">contact us</a>. Thank you!",
+
+  "mProjectLC": "project",
+  "mOrganizationLC": "organization",
+
+  "mSidebarTitleMyTasks": "MY TASKS",
+  "mSidebarCrossProjects": "SMART FOLDERS",
+  "mSidebarProjects": "PROJECTS",
+  "mSidebarFav": "BOOKMARKS",
+  "mSidebarRec": "RECENT",
+  "mSidebarArchive": "Archived",
+  "mSidebarHidden": "Hidden",
+  "mSidebarRecycleBin": "Trash",
+  "mSidebarMembers": "MEMBERS",
+  "mAppCategoriesU": "CATEGORIES",
+  "mAppCategory": "Category"
+}
