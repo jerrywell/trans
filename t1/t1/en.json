@@ -1,7 +1,7 @@
 {
     "mSystemBusy": "Sorry, the system is busy. Please try again. If the issue persists, please Thank you!",
     "mProjectLC": "project",
-    "mOrganizationLC": "organization",
+    "mOrganizationLC": "organization changes",
     "mSidebarTitleMyTasks": "MY TASKS",
     "mSidebarCrossProjects": "SMART FOLDERS",
     "mSidebarProjects": "PROJECTS",
@@ -13,5 +13,6 @@
     "mSidebarMembers": "MEMBERS",
     "mAppCategoriesU": "CATEGORIES",
     "mAppCategory": "Category",
-    "mAppCategory1": "Category111111"
+    "mAppCategory1": "Category111111",
+    "mAppCategory2": "Category2222"
 }
