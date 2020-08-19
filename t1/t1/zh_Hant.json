@@ -1,4 +1,17 @@
 {
     "mProjectLC": "專案",
-    "mSystemBusy": "抱歉, 謝謝"
+    "mSystemBusy": "抱歉, 謝謝",
+    "mAppCategory1": "分類111",
+    "mAppCategory": "分類",
+    "mAppCategoriesU": "分類",
+    "mSidebarMembers": "成員",
+    "mSidebarRecycleBin": "垃圾桶",
+    "mSidebarHidden": "隱藏",
+    "mSidebarArchive": "封存",
+    "mSidebarRec": "最近",
+    "mSidebarFav": "書千",
+    "mSidebarProjects": "多個專案",
+    "mSidebarCrossProjects": "聰明目錄",
+    "mSidebarTitleMyTasks": "my task",
+    "mOrganizationLC": "組織"
 }
