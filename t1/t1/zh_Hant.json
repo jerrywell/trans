@@ -22,5 +22,7 @@
     "mSignup": "申請",
     "mLogout": "登出",
     "mLanguage": "語言",
-    "mEmail": "電子郵件"
+    "mEmail": "電子郵件",
+    "mFirstDayOfWeek": "一週第一天",
+    "mLanguageAuto": "（自動）"
 }
