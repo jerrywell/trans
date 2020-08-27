@@ -27,5 +27,6 @@
     "mLanguageAuto": "（自動）",
     "m24hourTime": "時間",
     "m24hourTimeDesc": "時間",
-    "mAllow": "允許"
+    "mAllow": "允許",
+    "mDeny": "拒絕"
 }
