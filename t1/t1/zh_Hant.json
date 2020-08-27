@@ -18,6 +18,7 @@
     "mPPLL": "翻譯2",
     "mSystemBusy3": "翻譯",
     "mSystemBusy2": "翻譯",
-    "mLogin": "",
-    "mSignup": "申請"
+    "mLogin": "登入",
+    "mSignup": "申請",
+    "mLogout": "登出"
 }
