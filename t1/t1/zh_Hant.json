@@ -24,5 +24,6 @@
     "mLanguage": "語言",
     "mEmail": "電子郵件",
     "mFirstDayOfWeek": "一週第一天",
-    "mLanguageAuto": "（自動）"
+    "mLanguageAuto": "（自動）",
+    "m24hourTime": "時間"
 }
