@@ -39,6 +39,6 @@
   "m24hourTime2": "Time",
   "m24hourTimeDesc2": "Enable 24-Hour time",
   "mAllow2": "Allow",
-  "mDeny2": "Deny"
-
+  "mDeny2": "Deny",
+"mDeny3": "Deny"
 }
