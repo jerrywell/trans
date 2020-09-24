@@ -579,6 +579,7 @@
 	"mRemindTimeAt": "alle",
 	"mCollapseAllSubtaskByDefault": "Comprimi tutte le sottoattività per impostazione predefinita",
 	"mAutoAssignToMe": "Assegna automaticamente nuove attività a me stesso",
+	"mStrikethroughCompletedTasks": "Strikethrough completed tasks",
 	"mDeveloperConsoleTitle": "Sviluppatore Apps",
 	"mDeveloperConsoleIntro": "Crea un\\'app che renda Quire un\\'esperienza ancora migliore per te e il tuo team!<br>Se non sei sicuro come iniziare, dai un\\'occhiata alla <a href='/dev/api/'>documentazioni per Sviluppatori</a> per inziare con la tua integrazione.",
 	"mAppListLastUpdate": "Ultimo aggiornamento",
@@ -951,5 +952,6 @@
 	"mMobileSubDropToOthers": "Sposta le attività da questa vista",
 	"mMobileSubDropToOthersDialog": "Scegli una vista a cui aggiungere le attività",
 	"mMobileDraftBannerContinue": "Continua a scrivere le tue bozze.",
-	"mMobileDropForQuickSet": "Rilascia per un'associazione rapida"
+	"mMobileDropForQuickSet": "Rilascia per un'associazione rapida",
+	"mTest1": "test"
 }

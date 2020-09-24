@@ -579,6 +579,7 @@
 	"mRemindTimeAt": "à",
 	"mCollapseAllSubtaskByDefault": "Réduire toutes les sous-tâches par défaut",
 	"mAutoAssignToMe": "Attribuer automatiquement les nouvelles tâches à moi-même",
+	"mStrikethroughCompletedTasks": "Strikethrough completed tasks",
 	"mDeveloperConsoleTitle": "Apps développées",
 	"mDeveloperConsoleIntro": "Développez une application qui rendra Quire encore meilleur, pour vous et votre équipe !<br>Si vous ne savez pas par où débuter, allez voir la <a href='/dev/api/'>documentation pour les développeurs</a> pour commencer votre application.",
 	"mAppListLastUpdate": "Dernière mise à jour",
@@ -951,5 +952,6 @@
 	"mMobileSubDropToOthers": "Sortir les tâches de cette vue",
 	"mMobileSubDropToOthersDialog": "Sélectionnez une vue à laquelle ajouter les tâches",
 	"mMobileDraftBannerContinue": "Poursuivre la modification des brouillons.",
-	"mMobileDropForQuickSet": "Déposez ici pour ajouter à un groupe"
+	"mMobileDropForQuickSet": "Déposez ici pour ajouter à un groupe",
+	"mTest1": "test"
 }

@@ -579,6 +579,7 @@
 	"mRemindTimeAt": "saat",
 	"mCollapseAllSubtaskByDefault": "Varsayılan olarak tüm alt görevleri daralt",
 	"mAutoAssignToMe": "Yeni görevleri otomatik olarak bana ata",
+	"mStrikethroughCompletedTasks": "Strikethrough completed tasks",
 	"mDeveloperConsoleTitle": "Geliştirici Uygulamaları",
 	"mDeveloperConsoleIntro": "Quire\\'i sizin ve ekibiniz için daha da iyi bir deneyim haline getiren bir uygulama oluşturun!<br>Nasıl başlayacağınızdan emin değilseniz, entegrasyonunuza başlamak için <a href='/dev/api/'>geliştirici dokümantasyonuna</a> göz atın.",
 	"mAppListLastUpdate": "Son Güncelleme",
@@ -951,5 +952,6 @@
 	"mMobileSubDropToOthers": "Görevleri bu görünümden taşıyın",
 	"mMobileSubDropToOthersDialog": "Görev eklemek için bir görünüm seçin",
 	"mMobileDraftBannerContinue": "Taslaklarınızı yazmaya devam edin.",
-	"mMobileDropForQuickSet": "Hızlı kurulum için bırakın"
+	"mMobileDropForQuickSet": "Hızlı kurulum için bırakın",
+	"mTest1": "test"
 }

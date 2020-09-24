@@ -579,6 +579,7 @@
 	"mRemindTimeAt": "at",
 	"mCollapseAllSubtaskByDefault": "Collapse all subtasks by default",
 	"mAutoAssignToMe": "Automatically assign new tasks to myself",
+	"mStrikethroughCompletedTasks": "Strikethrough completed tasks",
 	"mDeveloperConsoleTitle": "Developer Apps",
 	"mDeveloperConsoleIntro": "Build an app that makes Quire an even better experience for you and your team!<br>If you're not sure how to start, check out the <a href='/dev/api/'>developer's documentation</a> to get started on your integration.",
 	"mAppListLastUpdate": "Last Update",
@@ -951,5 +952,6 @@
 	"mMobileSubDropToOthers": "Move tasks away from this view",
 	"mMobileSubDropToOthersDialog": "Choose a view to add tasks to",
 	"mMobileDraftBannerContinue": "Continue writing your drafts.",
-	"mMobileDropForQuickSet": "Drop for quick set"
+	"mMobileDropForQuickSet": "Drop for quick set",
+	"mTest1": "test"
 }

@@ -579,6 +579,7 @@
 	"mRemindTimeAt": "às",
 	"mCollapseAllSubtaskByDefault": "Reduzir todas as subtarefas por padrão",
 	"mAutoAssignToMe": "Atribuir automaticamente novas tarefas para mim",
+	"mStrikethroughCompletedTasks": "Strikethrough completed tasks",
 	"mDeveloperConsoleTitle": "Apps de Desenvolvedor",
 	"mDeveloperConsoleIntro": "Crie um aplicativo que torne o Quire uma experiência ainda melhor para você e sua equipe!<br>Se você não tiver certeza de como começar, confira a <a href='/dev/api/'>documentação do desenvolvedor</a> para começar sua integração.",
 	"mAppListLastUpdate": "Última Atualização",
@@ -951,5 +952,6 @@
 	"mMobileSubDropToOthers": "Mova tarefas desta vista",
 	"mMobileSubDropToOthersDialog": "Escolha uma vista para adicionar tarefas",
 	"mMobileDraftBannerContinue": "Continue escrevendo seus rascunhos.",
-	"mMobileDropForQuickSet": "Largue para configuração rápida"
+	"mMobileDropForQuickSet": "Largue para configuração rápida",
+	"mTest1": "test"
 }

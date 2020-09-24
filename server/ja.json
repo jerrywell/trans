@@ -579,6 +579,7 @@
 	"mRemindTimeAt": "の",
 	"mCollapseAllSubtaskByDefault": "デフォルトでは子タスクを折りたたむ",
 	"mAutoAssignToMe": "新しいタスクを自動的に自分に設定",
+	"mStrikethroughCompletedTasks": "Strikethrough completed tasks",
 	"mDeveloperConsoleTitle": "開発者アプリ",
 	"mDeveloperConsoleIntro": "ご自身やチームがQuireをもっと便利に楽しめるアプリを開発しませんか。<br>始め方が分からないときは、連携のための<a href='/dev/api/'>開発者ドキュメント</a>を参照してください。",
 	"mAppListLastUpdate": "最新の更新",
@@ -951,5 +952,6 @@
 	"mMobileSubDropToOthers": "この表示からタスクを移動",
 	"mMobileSubDropToOthersDialog": "タスクを追加する表示を選択",
 	"mMobileDraftBannerContinue": "下書きの編集を続ける",
-	"mMobileDropForQuickSet": "ドロップして設定"
+	"mMobileDropForQuickSet": "ドロップして設定",
+	"mTest1": "test"
 }
