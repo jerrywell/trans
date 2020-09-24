@@ -952,5 +952,7 @@
 	"mMobileSubDropToOthers": "この表示からタスクを移動",
 	"mMobileSubDropToOthersDialog": "タスクを追加する表示を選択",
 	"mMobileDraftBannerContinue": "下書きの編集を続ける",
-	"mMobileDropForQuickSet": "ドロップして設定"
+	"mMobileDropForQuickSet": "ドロップして設定",
+	"mTest1": "test",
+	"mTest2": "test"
 }

@@ -952,5 +952,7 @@
 	"mMobileSubDropToOthers": "Aufgaben aus dieser Ansicht heraus schieben",
 	"mMobileSubDropToOthersDialog": "Ansicht auswählen, zu der Aufgaben hinzugefügt werden sollen",
 	"mMobileDraftBannerContinue": "Entwürfe bearbeiten",
-	"mMobileDropForQuickSet": "Für schnelles Zuweisen hier ablegen"
+	"mMobileDropForQuickSet": "Für schnelles Zuweisen hier ablegen",
+	"mTest1": "test",
+	"mTest2": "test"
 }

@@ -952,5 +952,7 @@
 	"mMobileSubDropToOthers": "Görevleri bu görünümden taşıyın",
 	"mMobileSubDropToOthersDialog": "Görev eklemek için bir görünüm seçin",
 	"mMobileDraftBannerContinue": "Taslaklarınızı yazmaya devam edin.",
-	"mMobileDropForQuickSet": "Hızlı kurulum için bırakın"
+	"mMobileDropForQuickSet": "Hızlı kurulum için bırakın",
+	"mTest1": "test",
+	"mTest2": "test"
 }

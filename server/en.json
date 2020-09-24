@@ -952,5 +952,7 @@
 	"mMobileSubDropToOthers": "Move tasks away from this view",
 	"mMobileSubDropToOthersDialog": "Choose a view to add tasks to",
 	"mMobileDraftBannerContinue": "Continue writing your drafts.",
-	"mMobileDropForQuickSet": "Drop for quick set"
+	"mMobileDropForQuickSet": "Drop for quick set",
+	"mTest1": "test",
+	"mTest2": "test"
 }
