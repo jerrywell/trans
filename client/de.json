@@ -17,6 +17,7 @@
 	"mDeleteBrowserCacheSafari": "Versuchen Sie es mit <code>Alt+Cmd+E</code>, um die zwischengespeicherten Dateien des Browsers zu löschen und diese Seite neu zu laden.",
 	"mDeleteBrowserCacheEtc": "Versuchen Sie es mit <a href=\"https://www.go4u.de/browser-cache-leeren.htm\" target=\"_blank\">dem Löschen des Browser-Caches</a>, und laden Sie die Seite neu.",
 	"mCtrl": "Strg",
+	"mCtrl2": "Strg",
 	"mShift": "Umschalt",
 	"mAlt": "Alt",
 	"mQuireCannotReach": "Quire ist nicht erreichbar.",
