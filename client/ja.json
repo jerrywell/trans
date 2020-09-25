@@ -15,7 +15,7 @@
 	"mDeleteBrowserCacheChromeFirefoxEdge": "<code>[=ctrlCommand]+Shift+DELまたは[=ctrlCommand]+Shift+Backspace</code>キーを押してブラウザにキャッシュされた画像やファイルをクリアし、ページをリロード（再読み込み）してみてください。",
 	"mDeleteBrowserCacheSafari": "<code>Option+Command+E</code>キーを押してブラウザのキャッシュを削除し、ページをリロード（再読み込み）してみてください。",
 	"mDeleteBrowserCacheEtc": "<a href=\"https://www.lifewire.com/how-to-clear-cache-2617980\" target=\"_blank\">ブラウザのキャッシュファイルをクリア</a>し、ページをリロード（再読み込み）してみてください。",
-	"mCtrl": "Ctrl",
+	"mCtrl": "Control",
 	"mShift": "Shift",
 	"mAlt": "Alt",
 	"mQuireCannotReach": "Quireにアクセスできません。",
