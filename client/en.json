@@ -18,7 +18,7 @@
 	"mDeleteBrowserCacheChromeFirefoxEdge": "You can try to press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> to clear browser\\'s cached images and files, and reload this page.",
 	"mDeleteBrowserCacheSafari": "You can try to press <code>Option+Command+E</code> to empty browser\\'s cache, and reload this page.",
 	"mDeleteBrowserCacheEtc": "You can try <a href=\"https://www.lifewire.com/how-to-clear-cache-2617980\" target=\"_blank\">clear browser\\'s cached files</a>, and reload this page.",
-	"mCtrl": "Ctrl",
+	"mCtrl": "Control",
 	"mShift": "Shift",
 	"mAlt": "Alt",
 	"mQuireCannotReach": "Unable to reach Quire.",
