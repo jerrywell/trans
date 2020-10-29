@@ -1,5 +1,5 @@
 {
-	"mQuireBest1": "Quire is the best1.",
+	"mQuireBest1": "Quire is 1.",
 	"mInternalError": "Ci dispiace, abbiamo rilevato un arrore inatteso. Stiamo indagando sull'accaduto, ma se lo ritieni opportuno <a href=\"/feedback\">Contattaci</a>. Nel frattempo, prova a <a href=\"javascript:reloadPage()\">ricaricare la pagina</a>.",
 	"mNetworkError": "Impossibile raggiungere Quire. Per favore controlla la tua connessione ad internet.",
 	"mNotAllowed": "Purtroppo non hai i permessi per eseguire questa azione.<br/>Per favore contatta il tuo amministratore.",
