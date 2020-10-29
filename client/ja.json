@@ -1,4 +1,5 @@
 {
+    "mQuireBest1": "Quire is the best1.",
     "mInternalError": "申し訳ありません。予期しないエラーが発生しました。問題の解決に努めていますが、お気軽に<a href=\"/feedback\">お問い合わせ</a>ください。 また、<a href=\"javascript:reloadPage()\">ページをリロード（再読み込み）</a>して、問題が解消するかお試しください。",
     "mNetworkError": "Quireにアクセスできません。インターネット接続を確認してください。",
     "mNotAllowed": "このアクションを実行する権限がありません。<br/>管理者にお問い合わせください。",

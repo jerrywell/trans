@@ -1,4 +1,5 @@
 {
+	"mQuireBest1": "Quire is the best1.",
 	"mInternalError": "Sorry, we encountered an unexpected error. We will look into it, but feel free to <a href=\"/feedback\">contact us</a>. Meanwhile, you may try <a href=\"javascript:reloadPage()\">reloading this page</a>.",
 	"mNetworkError": "Unable to reach Quire. Please check your internet connection.",
 	"mNotAllowed": "You do not have permission to perform this action.<br/>Please contact your Admin.",
