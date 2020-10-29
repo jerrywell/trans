@@ -1,7 +1,7 @@
 {
 	"mQuireBest1": "Quire is 1.",
 	"mQuireBest": "Quire is the best.",
-	"mInternalError": "Sorry, ein unerwarteter Fehler ist aufgetreten. Wir werden uns das anschauen, aber Sie können uns auch gerne direkt <a href=\"/feedback\">informieren</a>. Manchmal hilft es auch die <a href=\"javascript:reloadPage()\">Seite neu zu laden</a>.",
+	"mInternalError": "Error 1.",
 	"mNetworkError": "Quire ist nicht erreichbar. Bitte überprüfen Sie Ihre Internetverbindung.",
 	"mNotAllowed": "Sie sind nicht berechtigt, diese Aktion auszuführen.<br/>Bitte kontaktieren Sie Ihren Administrator.",
 	"mNotFound": "Sorry, das konnten wir nicht finden.",

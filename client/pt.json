@@ -1,6 +1,6 @@
 {
 	"mQuireBest1": "Quire is 1.",
-	"mInternalError": "Desculpe, encontrámos um erro inesperado. Vamos investigar, mas esteja à vontade para <a href=\"/feedback\">entrar em contacto</a>. Entretanto, pode tentar <a href=\"javascript:reloadPage()\">recarregar esta página</a>.",
+	"mInternalError": "Error 1.",
 	"mNetworkError": "Não é possível aceder ao Quire. Por favor, verifique a sua ligação à internet.",
 	"mNotAllowed": "Não tem permissão para realizar esta ação.<br/>Por favor, entre em contacto com o seu administrador.",
 	"mNotFound": "Desculpe, não encontramos o que está a procurar.",

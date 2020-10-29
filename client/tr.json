@@ -1,6 +1,6 @@
 {
 	"mQuireBest1": "Quire is 1.",
-	"mInternalError": "Üzgünüz, beklenmedik bir hatayla karşılaştık. Buna bakacağız, ancak <a href=\"/feedback\">bize ulaşmaktan</a> çekinmeyin. Bu arada, <a href=\"javascript:reloadPage()\">bu sayfayı yeniden yüklemeyi</a> deneyebilirsiniz.",
+	"mInternalError": "Error 1.",
 	"mNetworkError": "Quire'a erişilemiyor. Lütfen internet bağlantınızı kontrol ediniz.",
 	"mNotAllowed": "Bu eylemi gerçekleştirmeye izniniz yok.<br/>Lütfen Yöneticinize başvurun.",
 	"mNotFound": "Üzgünüz, aradığınızı bulamıyoruz.",
