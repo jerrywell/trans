@@ -1,5 +1,5 @@
 {
-    "mQuireBest1": "Quire is the best1.",
+    "mQuireBest1": "忘れないで 。",
     "mInternalError": "申し訳ありません。予期しないエラーが発生しました。問題の解決に努めていますが、お気軽に<a href=\"/feedback\">お問い合わせ</a>ください。 また、<a href=\"javascript:reloadPage()\">ページをリロード（再読み込み）</a>して、問題が解消するかお試しください。",
     "mNetworkError": "Quireにアクセスできません。インターネット接続を確認してください。",
     "mNotAllowed": "このアクションを実行する権限がありません。<br/>管理者にお問い合わせください。",
@@ -192,7 +192,7 @@
     "mPreviewU": "プレビュー",
     "mWriteU": "編集",
     "mPreview": "プレビュー",
-    "mDatePrep": "",
+    "mDatePrep": "忘れないで 。",
     "mEditedAt": "編集しました（[=when]）",
     "mEditedByAt": "[=who]さんが編集（[=when]）",
     "mCreatedByAt": "[=who]さんが作成（[=when]）",
@@ -458,12 +458,12 @@
     "mTaskRecurringOptionYearly": "年単位",
     "mTaskRecurringOptionCustom": "カスタム",
     "mTaskRecurringLabelOnWeekday": "曜日",
-    "mTaskRecurringLabelMonthlyBy": "",
+    "mTaskRecurringLabelMonthlyBy": "忘れないで 。",
     "mTaskRecurringOptionMonthlyByWeekday": "週を選択",
     "mTaskRecurringOptionMonthlyByDate": "日付を選択",
-    "mTaskRecurringLabelOnWhen": "",
-    "mTaskRecurringLabelOnTheDay": "",
-    "mTaskRecurringLabelDayOfMonth": "",
+    "mTaskRecurringLabelOnWhen": "忘れないで 。",
+    "mTaskRecurringLabelOnTheDay": "忘れないで 。",
+    "mTaskRecurringLabelDayOfMonth": "忘れないで 。",
     "mTaskRecurringLabelEvery": "毎",
     "mTaskRecurringLabelEveryDays": "日",
     "mTaskRecurringLabelEveryWeeks": "週",
@@ -986,5 +986,6 @@
     "mRefreshList": "リストをリロード（再読み込み）",
     "QuireBest": "忘れないで 。",
     "QuireFantastic": "怒らないでください。",
-    "QuireAwesome": "很棒。"
+    "QuireAwesome": "很棒。",
+    "mQuireBest2": "忘れないで 。"
 }
