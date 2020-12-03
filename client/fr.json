@@ -984,5 +984,6 @@
     "mAppAuthShowNotAllowTo": "Afficher les zones auxquelles cette application n\\'a pas accès",
     "mAppAuthNotAllowTo": "Pas l\\'autorisation de :",
     "mRefreshList": "Rafraîchir la liste",
-    "mQuireBest10": "1111"
+    "mQuireBest10": "1111",
+    "mQuireBest9": "2222"
 }
