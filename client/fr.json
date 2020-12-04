@@ -989,5 +989,14 @@
     "mQuireBest8": "3333",
     "mQuireBest7": "4444",
     "mQuireBest6": "aaaa",
-    "mQuireGreat": "quire one"
+    "mQuireGreat": "quire one",
+    "QuireAwesome": "quire eleven",
+    "QuireFantastic": "quire ten",
+    "QuireBest": "quire nine",
+    "mQuireBest2": "quire eight",
+    "mQuireBest3": "quire seven",
+    "mQuireBest4": "quire six",
+    "mQuireBest5": "quire five",
+    "mQuireBest11": "quire four",
+    "mQuireTest01": "quire three"
 }
